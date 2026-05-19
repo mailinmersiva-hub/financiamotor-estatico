@@ -20,7 +20,6 @@ const POST_ASSETS = [
   "https://res.cloudinary.com/dla6aihxp/image/upload/v1779213132/5_qnr3j2.jpg",
   "https://res.cloudinary.com/dla6aihxp/image/upload/v1779213921/45_para_pruebas_6_mhsrod.jpg",
   "https://res.cloudinary.com/dla6aihxp/image/upload/v1779213133/8_cczet5.jpg",
-  "https://res.cloudinary.com/dla6aihxp/image/upload/v1779213134/Feed_1_xmamyw.jpg",
   "https://res.cloudinary.com/dla6aihxp/image/upload/v1779213133/9_qbmfyb.jpg",
   "https://res.cloudinary.com/dla6aihxp/image/upload/v1779213133/10_slt2y4.jpg",
   "https://res.cloudinary.com/dla6aihxp/image/upload/v1779213134/Feed_3_fvkddr.jpg",
